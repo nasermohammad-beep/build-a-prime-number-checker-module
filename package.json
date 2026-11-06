@@ -1,0 +1,14 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "An NPM module to check if a number is prime",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "prime",
+    "math",
+    "checker"
+  ],
+  "author": "freeCodeCamp Student",
+  "license": "MIT"
+}
